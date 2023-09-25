@@ -1,2 +1,13 @@
 # DPH-Calculator-benadryl
-calculates the recommended values of mg of DPH for your body [EDUCATIONAL PURPOSES ONLY, DO NOT CONSUME]
+/!\ WARNING : DPH (BENADRYL) IS REALLY DANGEROUS YOU GO ABOVE THE DOSE. THIS IS REALLY DANGEROUS. /!\
+calculates the recommended values of mg of DPH for your body [EDUCATIONAL PURPOSES ONLY, DO NOT CONSUME!] 
+DPH OVERDOSES CAN LEAD TO DEATH IN WORST CASES, PLEASE DO NOT ATTEMPT /!\ 
+EIRIEL LEVEL IS THE MOST DANGEROUS LEVEL, PLEASE DO NOT ATTEMPT /!\
+I AM ONLY MAKING THIS UPDATED TOOL PUBLIC FOR EDUCATIONAL PURPOSES, PLEASE DO NOT TRY FOR YOUR OWN SAFETY AND HEALTH! 
+
+IF YOU HAVE ANY DARK THOUGHTS, PLEASE SEEK HELP ! 
+National Suicide Prevention Lifeline: 1-800-273-8255 (USA)
+
+Originally from https://replit.com/@dphcalc/DPH-Calc 
+Edited to add back Auditory Hallucinations and to add EIRIEL /!\ 
+
